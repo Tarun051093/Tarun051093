@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Tarun051093
 
 - 👀 I’m interested in DevOps automation, cloud infrastructure management, container orchestration, and continuous integration/continuous delivery pipelines.
-- 🌱 I’m currently learning advanced Kubernetes configurations, multi-cloud deployment strategies, and optimizing observability using tools like Prometheus and Grafana.
+- 🌱 I’m familiar with advanced Kubernetes configurations, multi-cloud deployment strategies, and optimizing observability using tools like Prometheus and Grafana.
 - 💞️ I’m looking to collaborate on large-scale infrastructure projects, CI/CD pipeline optimization, and containerized application deployments.
 - 📫 How to reach me: [tarun.tara.01@gmail.com]
 - 😄 Pronouns: [Tarun]
